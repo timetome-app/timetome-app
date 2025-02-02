@@ -25,7 +25,7 @@ Any questions [hi@timeto.me](mailto:hi@timeto.me?subject=[GitHub]%20Feedback)
 
 Hi,
 
-Developer is here.
+Developer here.
 
 I built this app to manage my productivity. Here I will show how I use it.
 
@@ -63,7 +63,7 @@ This way I always remember what I have to do. Most of the time my screen looks l
   <img src="https://raw.githubusercontent.com/medvedev91/timetome/main/android_app/src/main/res/drawable/readme_timer_1.jpg" width="200" />
 </p>
 
-This way also provides 24/7 data on how long everything takes:
+This screen also provides 24/7 data on how long everything takes:
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/medvedev91/timetome/main/android_app/src/main/res/drawable/readme_chart_1.jpg" width="200" />
@@ -116,7 +116,7 @@ like a schedule:
   <img src="https://raw.githubusercontent.com/medvedev91/timetome/main/android_app/src/main/res/drawable/readme_repeatings_2.jpg" width="200" />
 </p>
 
-**The most important, when I press it, it automatically starts a timer with the right activity.**
+**The most important thing, is that when I press the task, it automatically starts a timer with the right activity.**
 
 You can create not only everyday tasks. For example, watering a cactus once a week or paying for internet
 once a month, etc.
@@ -206,7 +206,7 @@ We learned the timer, repeating tasks, and checklists. The most important points
 
 **You can already use the app!**
 
-Right now, try playing with the app: start a new activity, create repeating tasks, checklists. You can rely on my
+Right now, try playing with the app: start a new activity, create repeating tasks, and creating checklists. You can rely on my
 examples.
 
 Then move on to advanced features.
@@ -227,9 +227,9 @@ To create goals, go to the activity edit form.
 
 A typical task list with folders. But there are 2 special folders: today and tmrw (tomorrow).
 
-Today - tasks from repeating tasks and calendar go here on a set day, you can add your own.
+Today - the tasks from the repeating tasks lists and the calender go here, you can add your own as well.
 
-Tmrw (tomorrow) - tasks that will be tomorrow including repeating tasks and calendar. In other words, the tasks that
+Tmrw (tomorrow) - tasks that will be tomorrow, including repeating tasks and calendar. In other words, the tasks that
 will be moved to "Today" tomorrow.
 
 Swipe left to delete and right to edit.
@@ -246,16 +246,16 @@ Ann" example:
 
 # Shortcuts
 
-Real life example: I meditate every day, to start I open a special video on YouTube.
+Real life example: I meditate every day using a special video, that I open on YouTube.
 
 Shortcuts automate this. When I start the "Meditation" activity, the video will start automatically.
 
-This works especially well with repeating tasks. "Meditation" is automatically created every day, I just tap on it, the
+This works especially well with repeating tasks. "Meditation" is automatically created every day, I just tap on it, and the
 timer and video starts.
 
 # Day Start Time
 
-Especially for night owls. You can set the time when repeating tasks will be added for the next day. Default 00:00.
+Especially useful for night owls. You can set the time when repeating tasks will be added for the next day. Default 00:00.
 
 # Conclusion
 
